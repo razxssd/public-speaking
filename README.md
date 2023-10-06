@@ -86,12 +86,12 @@
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
-| 2020-3-8 | Medium | [How to create a Power Apps Component Framework (PCF)](pages/2020/2020-03-08.md) |  |  | [🇮🇹](## "Italy") | Italian |
+| 2020-3-8 | Medium | [How to create a Power Apps Component Framework (PCF)](pages/2020/2020-03-08.md) |  |  | [undefined](## "undefined") | English |
 
 
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-10-06T14:07:00.425Z*
+*page updated on 2023-10-06T19:52:32.032Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
