@@ -1,11 +1,7 @@
 <div align='center'><p><img src="https://img.shields.io/badge/total-10-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-4-red?style=flat-square" alt="Total Conferences">   <img src="https://img.shields.io/badge/articles-6-green?style=flat-square" alt="Total Podcasts"> </p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
-<p align='center'>Reach me out on social networks! <h5 align='center'><code><a href='https://www.linkedin.com/in/eduardcapanu/' title='LinkedIn Profile'><img width='22' src='https://github.com/razxssd/razxssd/blob/main/Images/linkedin_logo.png'> LinkedIn</a></code><code><a href='https://www.hackerrank.com/capanueduard98' title='HackerRank Profile'><img width='22' src='https://github.com/razxssd/razxssd/blob/main/Images/hackerrank_logo.png'> HackerRank</a></code><code><a href='https://www.instagram.com/andrey_eddy/' title='Instagram Profile'><img width='22' src='https://github.com/razxssd/razxssd/blob/main/Images/instagram_logo.png'> Instagram</a></code><code><a href='https://dev.to/razxssd' title='DEV Profile'><img width='22' src='https://github.com/razxssd/razxssd/blob/main/Images/devto_logo.png'> DEV.to</a></code></h5></p>
-
- - In addition to raw HTML elements, you can use format sections
- - Using HTML elements to construct the output
-
+<p align='center'>Reach me out on social networks! <h5 align='center'> <code><a href='https://www.eduardcapanu.com/' title='Personal Website'><img width='22' src='https://github.com/razxssd/razxssd/blob/main/Images/personalwebsite_logo.png'>Personal Website</a></code><code><a href='https://www.linkedin.com/in/eduardcapanu/' title='LinkedIn Profile'><img width='22' src='https://github.com/razxssd/razxssd/blob/main/Images/linkedin_logo.png'> LinkedIn</a></code><code><a href='https://www.hackerrank.com/capanueduard98' title='HackerRank Profile'><img width='22' src='https://github.com/razxssd/razxssd/blob/main/Images/hackerrank_logo.png'> HackerRank</a></code><code><a href='https://www.instagram.com/andrey_eddy/' title='Instagram Profile'><img width='22' src='https://github.com/razxssd/razxssd/blob/main/Images/instagram_logo.png'> Instagram</a></code><code><a href='https://dev.to/razxssd' title='DEV Profile'><img width='22' src='https://github.com/razxssd/razxssd/blob/main/Images/devto_logo.png'> DEV.to</a></code></h5></p>
 
 # Table of Contents
 
@@ -96,6 +92,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-10-06T13:53:43.634Z*
+*page updated on 2023-10-06T14:07:00.425Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
