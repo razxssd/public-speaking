@@ -1,6 +1,7 @@
 <div align='center'><p><img src="https://img.shields.io/badge/total-10-blue?style=flat-square" alt="Total Events">  <img src="https://img.shields.io/badge/conferences-4-red?style=flat-square" alt="Total Conferences">   <img src="https://img.shields.io/badge/articles-6-green?style=flat-square" alt="Total Podcasts"> </p>
 </div>
   <p align='center'><h1 align='center'>Public Speaking and Content Creation</h1>
+<p align='center'>Reach me out on social networks! <h5 align='center'><code><a href='https://www.linkedin.com/in/eduardcapanu/' title='LinkedIn Profile'><img width='22' src='https://github.com/razxssd/razxssd/blob/main/Images/linkedin_logo.png'> LinkedIn</a></code><code><a href='https://www.hackerrank.com/capanueduard98' title='HackerRank Profile'><img width='22' src='https://github.com/razxssd/razxssd/blob/main/Images/hackerrank_logo.png'> HackerRank</a></code><code><a href='https://www.instagram.com/andrey_eddy/' title='Instagram Profile'><img width='22' src='https://github.com/razxssd/razxssd/blob/main/Images/instagram_logo.png'> Instagram</a></code><code><a href='https://dev.to/razxssd' title='DEV Profile'><img width='22' src='https://github.com/razxssd/razxssd/blob/main/Images/devto_logo.png'> DEV.to</a></code></h5></p>
 
  - In addition to raw HTML elements, you can use format sections
  - Using HTML elements to construct the output
@@ -9,9 +10,31 @@
 # Table of Contents
 
 
+ - [Year of 2023](#2023) - total events 3
  - [Year of 2022](#2022) - total events 5
- - [Year of 2021](#2021) - total events 4
+ - [Year of 2021](#2021) - total events 1
  - [Year of 2020](#2020) - total events 1
+
+# 2023
+
+
+![Total Events](https://img.shields.io/badge/total-3-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-3-red?style=flat-square)    
+
+
+<table>
+  <tr>
+    <td align="center"> <img src="https://thecmmbay.com/cache/covers_event/media/covers/2023-06-07_minicorso-pensare-in-typescript-aspetti-avanzati_kzn745wj8x1_ec028b99.jpg.webp" width="85" height="50" /> </td>
+    <td align="center"> <img src="https://thecmmbay.com/cache/covers_event/media/covers/2023-05-31_minicorso-pensare-in-typescript-dalla-teoria-alla-pratica_9l0750wjqn2_a4008f96.jpg.webp" width="85" height="50" /> </td>
+  </tr>
+</table>
+
+
+| Date | Event | Title | Slides | Recording | Location | Language |
+| ---- | ----- | ----- | ------ | --------- | -------- | -------- |
+| 2023-6-22 | Meta Developer Circle / The Communities Bay | [Ultima fermata: addio al Developer Circle celebrando il nostro viaggio](pages/2023/2023-05-22.md) |  | [Recording](https://www.youtube.com/watch?v=Eueg16h3gg4) | [🇮🇹](## "Italy") | Italian |
+| 2023-6-7 | Coding Zone / Aulab / The Communities Bay | [Minicorso Pensare in TypeScript: Aspetti avanzati](pages/2023/2023-06-07.md) |  | [Recording](https://www.youtube.com/watch?v=AfK-LwK4B4k&t) | [🇮🇹](## "Italy") | Italian |
+| 2023-5-31 | Coding Zone / Aulab / The Communities Bay | [Minicorso Pensare in TypeScript: Dalla teoria alla pratica](pages/2023/2023-05-31.md) |  | [Recording](https://www.youtube.com/watch?v=eORG5iDvXnM) | [🇮🇹](## "Italy") | Italian |
+
 
 # 2022
 
@@ -42,23 +65,14 @@
 # 2021
 
 
-![Total Events](https://img.shields.io/badge/total-4-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-4-red?style=flat-square)    
+![Total Events](https://img.shields.io/badge/total-1-blue?style=flat-square)  ![Total Conferences](https://img.shields.io/badge/conferences-1-red?style=flat-square)    
 
 
-<table>
-  <tr>
-    <td align="center"> <img src="https://thecmmbay.com/cache/covers_event/media/covers/2023-06-07_minicorso-pensare-in-typescript-aspetti-avanzati_kzn745wj8x1_ec028b99.jpg.webp" width="85" height="50" /> </td>
-    <td align="center"> <img src="https://thecmmbay.com/cache/covers_event/media/covers/2023-05-31_minicorso-pensare-in-typescript-dalla-teoria-alla-pratica_9l0750wjqn2_a4008f96.jpg.webp" width="85" height="50" /> </td>
-  </tr>
-</table>
 
 
 | Date | Event | Title | Slides | Recording | Location | Language |
 | ---- | ----- | ----- | ------ | --------- | -------- | -------- |
 | 2021-7-7 | Visual Studio Italia | [Office Add-In e Azure Cognitive Services in JS, React & Fluent UI - Fabio Biondi e Eduard Capanu](pages/2020/2020-07-07.md) |  | [Recording](https://www.youtube.com/watch?v=UFGy586Avec&t=688s) | [🇮🇹](## "Italy") | Italian |
-| 2021-6-22 | Meta Developer Circle / The Communities Bay | [Ultima fermata: addio al Developer Circle celebrando il nostro viaggio](pages/2023/2023-05-22.md) |  | [Recording](https://www.youtube.com/watch?v=Eueg16h3gg4) | [🇮🇹](## "Italy") | Italian |
-| 2021-6-7 | Coding Zone / Aulab / The Communities Bay | [Minicorso Pensare in TypeScript: Aspetti avanzati](pages/2023/2023-06-07.md) |  | [Recording](https://www.youtube.com/watch?v=AfK-LwK4B4k&t) | [🇮🇹](## "Italy") | Italian |
-| 2021-5-31 | Coding Zone / Aulab / The Communities Bay | [Minicorso Pensare in TypeScript: Dalla teoria alla pratica](pages/2023/2023-05-31.md) |  | [Recording](https://www.youtube.com/watch?v=eORG5iDvXnM) | [🇮🇹](## "Italy") | Italian |
 
 
 # 2020
@@ -82,6 +96,6 @@
 
 <p align='center'><h1 align='center'>Feel free to reach me out</h1>
 
-*page updated on 2023-10-06T13:48:58.347Z*
+*page updated on 2023-10-06T13:53:43.634Z*
 
 powered by [gigsboat/cli](https://github.com/gigsboat/cli)
